@@ -14,12 +14,20 @@
 ---
 
 ## 🖼️ Capturas de pantalla
-activa la primera opcion
+<html>
+ <h1>
+   activa la primera opcion
+ </h1> 
 <img src="screenshot/1.png" width="300"/>
-concede los permiso
+  <h1>
+    concede los permiso
+  </h1>
 <img src="screenshot/2.png" width="300"/>
-permite las noitificaciones
+<h1>
+  permite las noitificaciones
+</h1>
 <img src="screenshot/3.png" width="300"/>
+</html>
 
 
 ---
