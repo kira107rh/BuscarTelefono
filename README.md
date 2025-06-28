@@ -16,11 +16,10 @@
 ## 🖼️ Capturas de pantalla
 activa la primera opcion
 <img src="screenshot/1.png" width="300"/>
-screenshot/1.png
 concede los permiso
-screenshot/2.png
+<img src="screenshot/2.png" width="300"/>
 permite las noitificaciones
-screenshot/2.png
+<img src="screenshot/3.png" width="300"/>
 
 
 ---
