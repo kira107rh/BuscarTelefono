@@ -14,8 +14,13 @@
 ---
 
 ## 🖼️ Capturas de pantalla
+activa la primera opcion
+screenshot/1.png
+concede los permiso
+screenshot/2.png
+permite las noitificaciones
+screenshot/2.png
 
-> *(Agrega aquí imágenes de la interfaz de usuario o funcionamiento de la app)*
 
 ---
 
