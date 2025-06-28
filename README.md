@@ -41,4 +41,4 @@
 3. Otorga los permisos solicitados al abrir la app.
 
 ## Terminos y Condiciones
- <a href="terminos y condicones">
+ ver terminos y condiciones [sección de releases](https://github.com/kira107rh/BuscarTelefono/blob/main/T%C3%A9rminos%20y%20Condiciones).
