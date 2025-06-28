@@ -1,55 +1,29 @@
-TÉRMINOS Y CONDICIONES DE USO – Buscar Teléfono
+# 📱 Buscar Teléfono
 
-Fecha de entrada en vigencia: 13-06-2025
+**Buscar Teléfono** es una app Android que hace sonar tu dispositivo automáticamente cada vez que recibes una notificación que contiene una palabra clave definida por ti. Ideal para encontrar tu teléfono rápidamente si está perdido cerca de ti o en silencio.
 
-Por favor, lea detenidamente estos Términos y Condiciones antes de utilizar la aplicación Buscar Teléfono.
+---
 
-Al utilizar esta aplicación, usted acepta estos términos. Si no está de acuerdo con ellos, no utilice la aplicación.
+## 🚀 Características
 
-1. Descripción de la aplicación
-Buscar Teléfono es una aplicación móvil diseñada para ayudarte a encontrar tu dispositivo haciendo que reproduzca un sonido cuando reciba una notificación con un mensaje específico previamente definido por el usuario.
+- 🔔 Detecta notificaciones entrantes en tiempo real.
+- 🔑 Configura una palabra clave personalizada para activar la alarma.
+- 📢 Reproduce un sonido fuerte para ayudarte a encontrar el dispositivo.
+- 🔒 No recopila ningún dato personal ni accede a información sensible.
 
-2. Funcionamiento
-El usuario define un texto específico que, al ser recibido en una notificación, activa la reproducción de un sonido en el dispositivo.
+---
 
-La aplicación funciona en segundo plano, monitoreando las notificaciones entrantes en busca de coincidencias con el mensaje definido.
+## 🖼️ Capturas de pantalla
 
-3. Privacidad y datos del usuario
-Buscar Teléfono respeta la privacidad de los usuarios. Por ello:
+> *(Agrega aquí imágenes de la interfaz de usuario o funcionamiento de la app)*
 
-No se recopila, almacena ni comparte ningún tipo de información personal.
+---
 
-La aplicación no accede a los contenidos completos de los mensajes, solo verifica si contienen la palabra o frase definida por el usuario.
+## 🛠️ Instalación
 
-No se requiere conexión a internet ni autenticación, y no se transfieren datos a servidores externos.
+### Desde APK
 
-4. Permisos requeridos
-Para funcionar correctamente, la aplicación puede solicitar acceso a:
+1. Descarga el archivo APK desde la [sección de releases](https://github.com/tuusuario/BuscarTelefono/releases).
+2. Instala el APK en tu dispositivo Android.
+3. Otorga los permisos solicitados al abrir la app.
 
-Notificaciones del sistema: para detectar el mensaje definido por el usuario.
-
-Control de audio: para reproducir un sonido de alerta en caso de coincidencia.
-
-Estos permisos se utilizan exclusivamente para las funciones descritas y no implican el acceso a datos privados.
-
-5. Responsabilidad del usuario
-El usuario es responsable de:
-
-Definir correctamente el mensaje que activará la alerta.
-
-No utilizar la aplicación para fines distintos a los previstos (por ejemplo, vigilancia o control de terceros).
-
-Asegurarse de tener los permisos activados para el correcto funcionamiento de la app.
-
-6. Limitación de responsabilidad
-El desarrollador no se hace responsable por:
-
-Fallos en la activación del sonido debido a configuraciones del dispositivo, restricciones del sistema o permisos no otorgados.
-
-Uso indebido de la aplicación por parte del usuario.
-
-7. Cambios en los términos
-Nos reservamos el derecho de modificar estos Términos y Condiciones en cualquier momento. Los cambios serán publicados dentro de la aplicación o en los canales correspondientes. El uso continuo de la app después de la modificación implica la aceptación de los nuevos términos.
-
-8. Contacto
-Para cualquier duda, sugerencia o problema relacionado con la aplicación, puede contactarnos a: 
