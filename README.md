@@ -15,6 +15,7 @@
 
 ## 🖼️ Capturas de pantalla
 activa la primera opcion
+<img src="screenshot/1.png" width="300"/>
 screenshot/1.png
 concede los permiso
 screenshot/2.png
