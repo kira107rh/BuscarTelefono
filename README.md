@@ -40,3 +40,5 @@
 2. Instala el APK en tu dispositivo Android.
 3. Otorga los permisos solicitados al abrir la app.
 
+## Terminos y Condiciones
+ <a href="terminos y condicones">
